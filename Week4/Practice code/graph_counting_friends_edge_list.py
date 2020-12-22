@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 #pairs of non directional graph pair set
 data1 = {'A':[1,1,1,2,2,3,3,3,3],
